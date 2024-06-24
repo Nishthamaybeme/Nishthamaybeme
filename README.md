@@ -1,3 +1,4 @@
+![Designer](https://github.com/Nishthamaybeme/Nishthamaybeme/assets/143293250/a784e7f8-5cb6-48b4-a5c5-40229d599519)
 
 <h1 align="center">Hi , I'm Nishtha!👋</h1>
 <h3 align="center">Hello! 👋 I'm an aspiring engineer currently honing my skills in Python and machine learning.</h3>
