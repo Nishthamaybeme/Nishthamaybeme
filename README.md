@@ -1,7 +1,6 @@
-![MasterHead](https://github.com/Nishthamaybeme/Nishthamaybeme/assets/143293250/a784e7f8-5cb6-48b4-a5c5-40229d599519)
+![hhhhhhhhhhhh](https://github.com/Nishthamaybeme/Nishthamaybeme/assets/143293250/80276d9a-aefa-4e8e-a0aa-96041551e696)
 
-<h1 align="center">Hi , I'm Nishtha!👋</h1>
-<h3 align="center">Hello! 👋 I'm an aspiring engineer currently honing my skills in Python and machine learning.</h3>
+<h3 align="center">I'm an aspiring engineer currently honing my skills in Python and machine learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishthamaybeme&label=Profile%20views&color=0e75b6&style=flat" alt="nishthamaybeme" /> </p>
 
