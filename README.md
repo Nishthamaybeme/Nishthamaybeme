@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **MySQL,python and streamlit.**
 
 - 📫 How to reach me **nishthagoyal122@gmail.com**
-
+- **https://www.linkedin.com/in/nishtha-goyal-839491286/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/nishthagoyal122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishthagoyal122" height="30" width="40" /></a>
