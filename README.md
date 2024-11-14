@@ -36,3 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishthamaybeme&" alt="Nishthamaybeme" /></p>
 
+
+![snake gif](https://github.com/Nishthamaybeme/Nishthamaybeme/blob/output/snake.svg)
+
