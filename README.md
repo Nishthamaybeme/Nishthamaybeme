@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nishthagoyal22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sM3G1gAiI35Skdy_ZdLepErbSEgn5c-y/view?usp=drive_link](https://drive.google.com/file/d/1sM3G1gAiI35Skdy_ZdLepErbSEgn5c-y/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1iAg_gnoF0TO59BhKLMRB6Gu3MgHjUPLf?usp=drive_link)
 
 - ⚡ Fun fact **I am deep into learning.**
 
