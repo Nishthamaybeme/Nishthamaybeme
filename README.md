@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **tensorflow,deeplearning.**
 
-- 👨‍💻 All of my projects are available at ["link"]("link")
+- 👨‍💻 All of my projects are available at my [Portfolio](https://nishthamaybeme.github.io/Portfolio-Nishtha/)
 
 - 📫 How to reach me **nishthagoyal22@gmail.com**
 
