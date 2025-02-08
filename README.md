@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **nishthagoyal22@gmail.com**
 
-- 📄 Know about my experiences [Resume]()
-
 - ⚡ Fun fact **I am deep into learning.**
 
 <h3 align="left">Connect with me:</h3>
